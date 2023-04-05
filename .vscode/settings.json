@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "sdl.h": "c",
+        "sdl_video.h": "c",
+        "chip8memory.h": "c",
+        "config.h": "c",
+        "chip8.h": "c",
+        "chip8stack.h": "c",
+        "chip8keyboard.h": "c",
+        "stdbool.h": "c",
+        "stdio.h": "c",
+        "chip8screen.h": "c",
+        "windows.h": "c",
+        "stdlib.h": "c",
+        "conio.h": "c"
+    }
+}
